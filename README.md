@@ -20,7 +20,7 @@ Some of the insights from this project are:
 - **Popular Gnere by Content**:  
    Genre like **International Movies**, **Drama**, **Comedy** are Popular.
 - **Actor/Director Collaborations**:  
-   Frequent collaborations between directors and actors were identified, showing interesting patterns like **Martin Scorsese** working regularly with **Leonardo DiCaprio**.
+   Martin Scorsese’s diverse network of 139 actors suggests a focus on versatility and fresh talent, while Rajiv Chilka’s 136 actors, with 19-time collaborator Jula Tejashweeni, reflects a strategy centered on consistent, long-term creative partnerships. Frequent collaborations between directors and actors were identified, showing interesting patterns like Rajiv Chilka working regularly with **Julie Tajwani**.
 
 - **Movies vs TV Shows**:  
    In recent years, Netflix has focused more on **TV Shows** than **Movies**, with a significant increase in series production around 2019-2020.
