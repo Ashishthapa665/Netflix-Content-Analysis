@@ -1,7 +1,12 @@
 # Netflix-Content-Analysis
+## Tools Used:
+- **Excel**: Data Cleaning and Preprocessing
+- **MySQL**: Exploratory Data Analysis
+- **Power BI**: Visualization
+
 This project analyzes Netflix content to explore:
 - Content availability by country.
-- Identifying similar movies/TV shows.
+- Popular Genre in movies/TV shows.
 - Network analysis of actors and directors.
 - Netflix's focus on TV shows vs movies over time.
 
@@ -10,11 +15,10 @@ This project analyzes Netflix content to explore:
 Some of the insights from this project are:
 
 - **Content Availability by Country**:  
-   Countries like **United States** and **India** have the largest collection of Netflix content, while countries in **Europe** and **South America** have fewer options.
+   Countries like **United States** and **India** have the largest collection of Netflix content.
 
-- **Identifying Similar Content**:  
-   Movies and TV shows are grouped into genres such as **Action**, **Comedy**, **Drama**, and more. You can explore which titles are similar based on these features.
-
+- **Popular Gnere by Content**:  
+   Genre like **International Movies**, **Drama**, **Comedy** are Popular.
 - **Actor/Director Collaborations**:  
    Frequent collaborations between directors and actors were identified, showing interesting patterns like **Martin Scorsese** working regularly with **Leonardo DiCaprio**.
 
